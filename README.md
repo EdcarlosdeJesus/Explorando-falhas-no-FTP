@@ -14,7 +14,7 @@
 
 ➡️ No kali iniciaremos com o comando msfcosole para iniciar o console como mostra a imagem abaixo.
 
-![image](https://github.com/user-attachments/assets/67778307-9344-415e-bdd4-7f1d0455e311)
+<img src="https://github.com/user-attachments/assets/67778307-9344-415e-bdd4-7f1d0455e311" width="400"/>
 
 ---
 
@@ -29,9 +29,7 @@
  
 ![image](https://github.com/user-attachments/assets/bd0ea8eb-09eb-42ad-90a5-86056baea61f)
 
-➡️ Para usar muito simples apenas colocando o comando ***use***
-
-comando:***use exploit/unix/ftp/vsftpd_234_backdoor***
+➡️ Comando:***use exploit/unix/ftp/vsftpd_234_backdoor***
 
  
 ****
@@ -63,7 +61,7 @@ comando:***use exploit/unix/ftp/vsftpd_234_backdoor***
 ****
 ➡️ Confirmado no nosso Host Alvo, iremos da inicio ao nosso exploit pelo comando *exploit*
 
-![image](https://github.com/user-attachments/assets/e6c1c942-fe43-48b5-a0e3-e3b7888748f9)
+<img src="https://github.com/user-attachments/assets/e6c1c942-fe43-48b5-a0e3-e3b7888748f9" width="400"/>
 
 ****
 ➡️ Depois de uma conexão estabelecida com o comando *ls* veremos oque temos na máquina alvo.
