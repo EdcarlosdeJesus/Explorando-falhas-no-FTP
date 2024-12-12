@@ -20,7 +20,7 @@
 
 --- 
 
-➡️ No kali iniciaremos com o comando **msfcosole** para iniciar o console como mostra a imagem abaixo.
+➡️ No kali iniciaremos com o comando **```msfcosole```** para iniciar o console como mostra a imagem abaixo.
 
 <img src="https://github.com/user-attachments/assets/67778307-9344-415e-bdd4-7f1d0455e311" width="400"/>
 
