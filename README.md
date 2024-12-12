@@ -63,7 +63,7 @@
 
 ➡️ Comando *```set payload payload/cmd/unix/interact```* usado para definir o payload (carga útil) que será usado em conjunto com o exploit.
 
-➡️ payload *cmd/unix/interact* permite a interação com uma conexão de shell estabelecida. Isso significa que, após explorar a vulnerabilidade e obter uma sessão de shell no sistema alvo, podemos usar esse payload para executar comandos diretamente na shell do sistema comprometido.
+➡️ payload *```cmd/unix/interact```* permite a interação com uma conexão de shell estabelecida. Isso significa que, após explorar a vulnerabilidade e obter uma sessão de shell no sistema alvo, podemos usar esse payload para executar comandos diretamente na shell do sistema comprometido.
 
 ![image](https://github.com/user-attachments/assets/c7c76c96-1226-4b70-aeb6-8a04ec83dca9)
 
