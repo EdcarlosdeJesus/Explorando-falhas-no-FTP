@@ -35,7 +35,7 @@
 
  
 ****
--Comando ***show options*** mostra sobre o nosso módulo, e já temos nossa porta mas precisamos do nosso IP de destino.
+➡️ Comando ***show options*** mostra sobre o nosso módulo, e já temos nossa porta mas precisamos do nosso IP de destino.
 
 ![image](https://github.com/user-attachments/assets/34467a44-e623-4ae6-a9f2-51e95557bba2)
 
