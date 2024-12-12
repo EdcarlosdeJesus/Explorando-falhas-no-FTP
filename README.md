@@ -31,7 +31,7 @@
 
 ➡️ Para utilizar o exploit
 
-Comando:***use exploit/unix/ftp/vsftpd_234_backdoor***
+➡️ Comando:***use exploit/unix/ftp/vsftpd_234_backdoor***
 
  
 ****
