@@ -74,7 +74,7 @@
 
 ➡️ Observamos que estamos com ip da máquina remota
 
-![image](https://github.com/user-attachments/assets/0dd5ef34-5ed6-44d4-8527-02a973efa8eb)
+ <img src="https://github.com/user-attachments/assets/0dd5ef34-5ed6-44d4-8527-02a973efa8eb" width="400"/>
 
 ****
 -Semelhante a CTF no inicio desse lab criei um arquivo como *flag.txt* dessa forma saberia que conseguir invadir a máquina alvo, abaixo imagem comprovando o sucesso desse lab.
