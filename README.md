@@ -12,7 +12,7 @@
 
 --- 
 
-➡️ No kali iniciaremos com o comando msfcosole para iniciar o console como mostra a imagem abaixo.
+➡️ No kali iniciaremos com o comando **msfcosole** para iniciar o console como mostra a imagem abaixo.
 
 <img src="https://github.com/user-attachments/assets/67778307-9344-415e-bdd4-7f1d0455e311" width="400"/>
 
@@ -29,7 +29,9 @@
  
 ![image](https://github.com/user-attachments/assets/bd0ea8eb-09eb-42ad-90a5-86056baea61f)
 
-➡️ Comando:***use exploit/unix/ftp/vsftpd_234_backdoor***
+➡️ Para utilizar o exploit
+
+Comando:***use exploit/unix/ftp/vsftpd_234_backdoor***
 
  
 ****
