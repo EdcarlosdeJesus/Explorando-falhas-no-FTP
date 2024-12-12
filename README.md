@@ -8,7 +8,7 @@
 
 ➡️ Iniciaremos abrindo nossa ferramenta de pesquisa e ataque.
  
-<img src="https://github.com/user-attachments/assets/e3f5eaec-5f6e-4bf6-902b-585e26da2ac1" width="400"/>
+![image](https://github.com/user-attachments/assets/e3f5eaec-5f6e-4bf6-902b-585e26da2ac1)
 
 --- 
 
