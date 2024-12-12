@@ -26,31 +26,31 @@
 
 ---
 
-➡️ Procurando por **vsftpd** um exploit malicioso que explora um backdoor foi encontrado em 2011.
+➡️ Procurando por **```vsftpd```** um exploit malicioso que explora um backdoor foi encontrado em 2011.
 
  
  ![image](https://github.com/user-attachments/assets/42dedc7c-c198-494b-9f0c-1227479f32fd)
 
 ➡️ Desejando saber sobre essa vulnerabilidade basta executar esse caminho:
 
- <info exploit/unix/ftp/vsftpd_234_backdoor>
+```info exploit/unix/ftp/vsftpd_234_backdoor```
  
 ![image](https://github.com/user-attachments/assets/bd0ea8eb-09eb-42ad-90a5-86056baea61f)
 
 ➡️ Para utilizar o exploit
 
-➡️ Comando:***use exploit/unix/ftp/vsftpd_234_backdoor***
+➡️ Comando:***```use exploit/unix/ftp/vsftpd_234_backdoor```***
 
  
 ****
-➡️ Comando ***show options*** mostra sobre o nosso módulo, e já temos nossa porta mas precisamos do nosso IP de destino.
+➡️ Comando ***```show options```*** mostra sobre o nosso módulo, e já temos nossa porta mas precisamos do nosso IP de destino.
 
 ![image](https://github.com/user-attachments/assets/34467a44-e623-4ae6-a9f2-51e95557bba2)
 
 ****
 ➡️Na maquina de destino que seria nosso metasploitable usaremos o comando *IP addr* assim consiguiremos ver nosso ip alvo.
 
-➡️Configuração para nosso host remoto ***set rhost***.
+➡️Configuração para nosso host remoto ***```set rhos```t***.
 
 ![image](https://github.com/user-attachments/assets/cdf093c1-b79c-462c-85ad-a4af5654a4f3)
 
@@ -61,7 +61,7 @@
 
 ➡️ *Interact* esse payload comando em unix ele interage com uma conexão estabelecida, consigo de forma remota accesar outro computador de forma remota explorando backdoor.
 
-➡️ Comando *set payload payload/cmd/unix/interact* usado para definir o payload (carga útil) que será usado em conjunto com o exploit.
+➡️ Comando *```set payload payload/cmd/unix/interact```* usado para definir o payload (carga útil) que será usado em conjunto com o exploit.
 
 ➡️ payload *cmd/unix/interact* permite a interação com uma conexão de shell estabelecida. Isso significa que, após explorar a vulnerabilidade e obter uma sessão de shell no sistema alvo, podemos usar esse payload para executar comandos diretamente na shell do sistema comprometido.
 
@@ -69,12 +69,12 @@
 
 
 ****
-➡️ Confirmado no nosso Host Alvo, iremos da inicio ao nosso exploit pelo comando *exploit*
+➡️ Confirmado no nosso Host Alvo, iremos da inicio ao nosso exploit pelo comando *```exploit```*
 
 <img src="https://github.com/user-attachments/assets/e6c1c942-fe43-48b5-a0e3-e3b7888748f9" width="400"/>
 
 ****
-➡️ Depois de uma conexão estabelecida com o comando *ls* veremos oque temos na máquina alvo.
+➡️ Depois de uma conexão estabelecida com o comando *```ls```* veremos oque temos na máquina alvo.
 
  <img src="https://github.com/user-attachments/assets/35e6165b-e3f4-447e-8c83-c41c04c83ef7" width="400"/> 
 
@@ -85,11 +85,11 @@
  <img src="https://github.com/user-attachments/assets/0dd5ef34-5ed6-44d4-8527-02a973efa8eb" width="400"/>
 
 ****
--Semelhante a CTF no inicio desse lab criei um arquivo como *flag.txt* dessa forma saberia que conseguir invadir a máquina alvo, abaixo imagem comprovando o sucesso desse lab.
+-Semelhante a CTF no inicio desse lab criei um arquivo como *```flag.txt```* dessa forma saberia que conseguir invadir a máquina alvo, abaixo imagem comprovando o sucesso desse lab.
 
 ![image](https://github.com/user-attachments/assets/0c396210-38d9-4c29-b776-2d0c3b507d62)
 
-➡️ Desejando abrir o arquivo apenas usar o comando nano flag.txt
+➡️ Desejando abrir o arquivo apenas usar o comando ```nano flag.txt```.
 
 
 
