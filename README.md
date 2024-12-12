@@ -68,7 +68,7 @@
 ****
 ➡️ Depois de uma conexão estabelecida com o comando *ls* veremos oque temos na máquina alvo.
 
-![image](https://github.com/user-attachments/assets/35e6165b-e3f4-447e-8c83-c41c04c83ef7)
+ <img src="https://github.com/user-attachments/assets/35e6165b-e3f4-447e-8c83-c41c04c83ef7" width="400"/> 
 
 ****
 
