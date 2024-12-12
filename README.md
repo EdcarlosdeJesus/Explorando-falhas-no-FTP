@@ -12,6 +12,7 @@
 
 
 ---
+### Configurando o atacante e máquina alvo.
 
 ➡️ Iniciaremos abrindo nossa ferramenta de pesquisa e ataque.
  
